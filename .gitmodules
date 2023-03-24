@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "APML0"]
+	path = APML0
+	url = https://github.com/cran/APML0
+	shallow = true
+	registered = true
